@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zulfiqaralihunzai05.github.io/zahunzai/sitemap.xml
